@@ -1,0 +1,50 @@
+ 驱动器 E 中的卷没有标签。
+ 卷的序列号是 56C6-B78C
+
+ E:\Jitotest\CLIProxyAPI 的目录
+
+2026/03/24  14:46    <DIR>          .
+2026/03/24  14:46    <DIR>          ..
+2026/03/18  21:07               487 .dockerignore
+2026/03/18  21:07             1,706 .env.example
+2026/03/18  21:07    <DIR>          .github
+2026/03/18  21:07               525 .gitignore
+2026/03/18  21:07               779 .goreleaser.yml
+2026/03/18  21:07    <DIR>          assets
+2026/03/18  21:07    <DIR>          auths
+2026/03/24  14:32                 0 build.log
+2026/03/18  21:45                 0 claude-login.err.log
+2026/03/18  21:50             1,556 claude-login.log
+2026/03/18  21:32        51,757,568 CLIProxyAPI-local.exe
+2026/03/24  14:33        51,770,880 CLIProxyAPI.exe
+2026/03/18  21:07    <DIR>          cmd
+2026/03/18  21:53                 0 codex-login.err.log
+2026/03/18  21:58             1,769 codex-login.log
+2026/03/18  21:07            17,862 config.example.yaml
+2026/03/22  23:44               946 config.yaml
+2026/03/24  14:46                 0 dir_out.txt
+2026/03/18  21:07             2,052 docker-build.ps1
+2026/03/18  21:07             5,090 docker-build.sh
+2026/03/18  21:07               791 docker-compose.yml
+2026/03/18  21:07               728 Dockerfile
+2026/03/18  21:07    <DIR>          docs
+2026/03/18  21:07    <DIR>          examples
+2026/03/18  22:10                 0 gemini-login.err.log
+2026/03/18  22:12             2,432 gemini-login.log
+2026/03/18  21:07             4,484 go.mod
+2026/03/18  21:07            22,406 go.sum
+2026/03/24  14:14                72 go_ver.txt
+2026/03/24  14:27                34 go_ver_utf8.txt
+2026/03/18  21:07    <DIR>          internal
+2026/03/18  21:07             1,137 LICENSE
+2026/03/24  14:28             9,989 netstat_proxy.txt
+2026/03/18  21:07            11,019 README.md
+2026/03/18  21:07            10,632 README_CN.md
+2026/03/18  21:10    <DIR>          release
+2026/03/19  20:00                 0 run.err.log
+2026/03/19  20:01             2,578 run.log
+2026/03/18  21:07    <DIR>          sdk
+2026/03/23  10:13    <DIR>          static
+2026/03/18  21:07    <DIR>          test
+              30 个文件    103,627,522 字节
+              13 个目录 43,496,525,824 可用字节
